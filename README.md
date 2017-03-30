@@ -1,4 +1,4 @@
-# Twitter-Textmining
+# Twitter-Text-mining
 Use Twitter Streaming API to collect tweets that contain certain words and hashtag
 The file contains 4 parts: 1. twitter_streaming.py, which is used to build up API handshake and start collect raw data
                            2. TweeterAnalysisWordCloud.ipynb, which is used to clean and analyze the raw data and generate word cloud to see what are people talking about when they tweet "(#)youth" and "(#)youthleadership".
